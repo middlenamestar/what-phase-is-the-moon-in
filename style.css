@@ -1,3 +1,7 @@
+::selection{
+    background: fuchsia;
+}
+
 div {
     margin: auto;
     width: 50%;
